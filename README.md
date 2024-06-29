@@ -4,7 +4,7 @@ Welcome to my Technical Writing Portfolio! This repository contains examples of 
 
 ## About Me
 
-Hi, I'm [Your Name], a professional technical writer with expertise in creating clear, concise, and user-friendly documentation. My work includes API documentation, user guides, whitepapers, and more. I'm passionate about making complex information accessible and understandable for all users.
+Hi, I'm Sunita Sethi, a professional technical writer with expertise in creating clear, concise, and user-friendly documentation. My work includes API documentation, user guides, whitepapers, and more. I'm passionate about making complex information accessible and understandable for all users.
 
 ## Table of Contents
 
